@@ -10,3 +10,5 @@
 ## 招生方向：计算机科学与技术（学硕）、电子信息（专硕）
 
 ## 联系方式：chenchu@sina.cn
+
+## Homepage: github.com/chenchuedu/cv, gitee.com/chenchuedu/cv
